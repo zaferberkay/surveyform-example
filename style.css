@@ -1,0 +1,75 @@
+body{
+    margin-bottom: 300px;
+    border: 1px solid;
+}
+.bdiv{
+    /* width: auto; */
+    /* margin: auto; */
+    /* border: 2px solid red; */
+    padding: 100px 100px 100px ;
+    
+}
+
+/* .date{
+    border: 2px solid red;
+} */
+
+#spand{
+    margin-left: 130px;
+}
+
+
+.slrow{
+    /* border: solid 2px red; */
+    margin-top: 50px;
+}
+
+.psrow{
+    /* border: solid 2px red; */
+    margin-top: 50px;
+}
+
+
+.kb {
+    /* border: 2px solid red; */
+    /* width: 250px; */
+    margin: -20px 10px 10px 150px;
+    
+    
+}
+
+.sektör{
+    /* border: solid 2px red; */
+    width: 200px;
+    margin: 30px 10px 20px 0px;
+    display: flex;
+}
+
+
+.deneyim{
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+    width: 200px;
+    margin: -90px 250px 10px;
+    display: block;
+}
+
+
+
+.pdil{
+    /* border: solid 2px red; */
+    width: 200px;
+    margin: 10px 10px 20px 0px;
+    display: flex;
+}
+.dsel{
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+    width: 100px;
+    margin: -50px 250px 10px;
+    display: flex;
+
+}
+#reduce{
+    text-decoration: underline;
+}
